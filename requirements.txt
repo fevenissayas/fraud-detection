@@ -4,3 +4,4 @@ seaborn
 matplotlib
 imblearn
 scikit_learn
+shap
